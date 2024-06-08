@@ -125,7 +125,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['blogging-website-cpd7.onrender.com', 'localhost']
 
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
